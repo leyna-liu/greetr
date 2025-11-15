@@ -1,9 +1,9 @@
 Package: greetr
 Type: Package
-Title: What the Package Does (Short Line)
+Title: Hello Greetings Package
 Version: 1.0
 Date: 2025-11-12
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line).
-License: What license is it under?
+Author: Leyna Gao Liu
+Maintainer: Who to complain to <lliu170@berkeley.edu>
+Description: It is able to output hello insert! to whatever you insert into the function.
+License: MIT
