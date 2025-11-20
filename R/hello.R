@@ -5,11 +5,10 @@
 #' @examples
 #' hello("Leyna")
 #' [1] "Hello Leyna !"
-#' 
-
-
-hello <-
+#' hello <-
 function(x) {
   print(paste("Hello", x, "!"))
 }
+
+
 
