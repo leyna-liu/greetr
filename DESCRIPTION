@@ -2,8 +2,13 @@ Package: greetr
 Type: Package
 Title: Hello Greetings Package
 Version: 1.0
+Encoding: UTF-8
 Date: 2025-11-12
 Author: Leyna Gao Liu
 Maintainer: Who to complain to <lliu170@berkeley.edu>
 Description: It is able to output hello insert! to whatever you insert into the function.
 License: MIT
+Depends: 
+    R (>= 3.5)
+LazyData: true
+RoxygenNote: 7.3.3
